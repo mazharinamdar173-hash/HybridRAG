@@ -16,3 +16,4 @@ This project demonstrates a hybrid retrieval approach for Retrieval-Augmented Ge
 ## Usage  
 Execute the Jupyter Notebook to explore the hybrid retrieval process and see how it integrates with the LLMs.
 
+mazhar
